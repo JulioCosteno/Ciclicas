@@ -122,7 +122,7 @@
           <h3>Distribución General por Tipo de Prueba</h3><div class='table-responsive'><table class='table table-striped table-hover'><thead><tr><th>Categoría</th><th>Frecuencia</th><th>Porcentaje</th></tr></thead><tbody><tr><td>ECOS</td><td>592</td><td>39.08%</td></tr><tr><td>IA</td><td>592</td><td>39.08%</td></tr><tr><td>Sin aplicar</td><td>331</td><td>21.85%</td></tr><tr class='table-active'><td><strong>Total</strong></td><td><strong>1515</strong></td><td><strong>100%</strong></td></tr></tbody></table></div>
         </div>
         <div class="col-md-6">
-          <img src="imagenes/grafico_tipo_prueba.png" alt="Gráfico de Tipo de Prueba" class="img-fluid">
+          <img src="grafico_tipo_prueba.png" alt="Gráfico de Tipo de Prueba" class="img-fluid">
         </div>
       </div>
     </div>
@@ -133,7 +133,7 @@
       <div class="row">
         <div class="col-md-12">
           <h3>Distribución por División y Tipo de Prueba</h3><div class='table-responsive'><table class='table table-striped table-hover'><thead><tr><th></th><th>ECOS</th><th>IA</th><th>Sin aplicar</th><th>Total</th><th>% del total aplicados</th></tr></thead><tbody><tr><td><strong>DIVISIÓN DE CIENCIA, ARTE Y TECNOLOGÍA</strong></td><td>301</td><td>179</td><td>140</td><td><strong>480</strong></td><td><strong>40.57%</strong></td></tr><tr><td><strong>DIVISIÓN DE ESTUDIOS SOCIALES</strong></td><td>194</td><td>361</td><td>172</td><td><strong>555</strong></td><td><strong>46.91%</strong></td></tr><tr><td><strong>DIVISIÓN DE HUMANIDADES Y COMUNICACIÓN</strong></td><td>96</td><td>52</td><td>19</td><td><strong>148</strong></td><td><strong>12.51%</strong></td></tr><tr class='table-active'><td><strong>Total</strong></td><td><strong>591 (49.96%)</strong></td><td><strong>592 (50.04%)</strong></td><td><strong>331</strong></td><td><strong>1183</strong></td><td>100%</td></tr></tbody></table></div>
-          <img src="imagenes/grafico_division_por_tipo.png" alt="Gráfico de División por Tipo de Prueba" class="img-fluid">
+          <img src="grafico_division_por_tipo.png" alt="Gráfico de División por Tipo de Prueba" class="img-fluid">
         </div>
       </div>
     </div>
@@ -148,10 +148,10 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="imagenes/grafico_semestre_IA.png" alt="Gráfico de Semestre - Pruebas IA" class="img-fluid">
+          <img src="grafico_semestre_IA.png" alt="Gráfico de Semestre - Pruebas IA" class="img-fluid">
         </div>
         <div class="col-md-6">
-          <img src="imagenes/grafico_semestre_ECOS.png" alt="Gráfico de Semestre - Pruebas ECOS" class="img-fluid">
+          <img src="grafico_semestre_ECOS.png" alt="Gráfico de Semestre - Pruebas ECOS" class="img-fluid">
         </div>
       </div>
     </div>
@@ -162,16 +162,16 @@
       <div class="row">
         <div class="col-md-12">
           <p>El siguiente gráfico muestra las 10 carreras con mayor número de estudiantes participantes, distinguiendo el número y porcentaje para cada tipo de prueba (IA y ECOS).</p>
-          <img src="imagenes/grafico_carrera_top10_combinado.png" alt="Top 10 Carreras por Tipo de Prueba" class="img-fluid mb-4">
+          <img src="grafico_carrera_top10_combinado.png" alt="Top 10 Carreras por Tipo de Prueba" class="img-fluid mb-4">
           
           <div class="row mt-4">
             <div class="col-md-6">
               <h4 class="text-primary">Top 10 Carreras - Pruebas IA</h4>
-              <img src="imagenes/grafico_top10_carreras_IA.png" alt="Top 10 Carreras con Mayor Número de Estudiantes en Pruebas IA" class="img-fluid">
+              <img src="grafico_top10_carreras_IA.png" alt="Top 10 Carreras con Mayor Número de Estudiantes en Pruebas IA" class="img-fluid">
             </div>
             <div class="col-md-6">
               <h4 class="text-danger">Top 10 Carreras - Pruebas ECOS</h4>
-              <img src="imagenes/grafico_top10_carreras_ECOS.png" alt="Top 10 Carreras con Mayor Número de Estudiantes en Pruebas ECOS" class="img-fluid">
+              <img src="grafico_top10_carreras_ECOS.png" alt="Top 10 Carreras con Mayor Número de Estudiantes en Pruebas ECOS" class="img-fluid">
             </div>
           </div>
         </div>
